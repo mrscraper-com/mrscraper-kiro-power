@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mrscraper",
+  "version": "0.1.0",
+  "description": "Scrape public web pages as HTML, Markdown, or screenshots, discover pages through Google search, and check account usage with MrScraper's hosted MCP server.",
+  "author": {
+    "name": "MrScraper",
+    "email": "support@mrscraper.com",
+    "url": "https://mrscraper.com"
+  },
+  "homepage": "https://docs.mrscraper.com/docs/getting-started/mcp-server",
+  "repository": "https://github.com/mrscraper-com/mrscraper-kiro-power",
+  "license": "MIT",
+  "keywords": [
+    "mrscraper",
+    "scrape",
+    "scraping",
+    "scraper",
+    "web scraping",
+    "crawl",
+    "serp",
+    "google search",
+    "page to markdown",
+    "website screenshot"
+  ]
+}

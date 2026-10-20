@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mrscraper": {
+      "type": "http",
+      "url": "https://mcp.mrscraper.com/mcp",
+      "oauthScopes": ["scrape:read", "account:read", "offline_access"]
+    }
+  }
+}
